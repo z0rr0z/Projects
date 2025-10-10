@@ -1,6 +1,6 @@
 # Исследование данных о российском кинопрокате
 
-[ipynb](https://github.com/z0rr0z/Practicum_projects/blob/main/Movies%20database/movies_database.ipynb)
+[ipynb](movies_database.ipynb)
 
 ## Описание проекта
 
