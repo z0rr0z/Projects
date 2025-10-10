@@ -1,6 +1,6 @@
 # Исследование данных о российском кинопрокате
 
-[ipynb](https://github.com/z0rr0z/Practicum_projects/blob/main/HR%20forecasting/hr_forecasting.ipynb)
+[ipynb](https://github.com/z0rr0z/Practicum_projects/blob/main/HR%20forecasting/hr_foreasting.ipynb)
 
 ## Описание проекта
 
