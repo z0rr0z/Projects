@@ -1,4 +1,4 @@
-# Исследование данных о российском кинопрокате
+# Предсказание уровня удовлетворённости сотрудников и вероятности их увольнения
 
 [ipynb](https://github.com/z0rr0z/Practicum_projects/blob/main/HR%20forecasting/hr_foreasting.ipynb)
 
