@@ -23,13 +23,13 @@
 
 ## Навыки и инструменты
 
-- **python**
-- **pandas**
-- **scikit-learn**
-- **matplotlib**
-- **seaborn**
-- **phik**
-- **shap**
+- **Python**
+- **Pandas**
+- **Scikit-learn**
+- **Matplotlib**
+- **Seaborn**
+- **Phik**
+- **Shap**
 
 ## Выводы
 
