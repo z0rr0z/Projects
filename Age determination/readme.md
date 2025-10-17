@@ -20,7 +20,7 @@
 
 - **Python**
 - **CV: сверточные сети (ResNet)**
-- **Tensorflow**
+- **TensorFlow**
 - **Keras**
 
 ## Общие выводы
