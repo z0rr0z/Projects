@@ -21,7 +21,7 @@
 
 - **Python**
 - **Pandas**
-- **NLP (NTLK, TF-IDF, BERT)
+- **NLP (NTLK, TF-IDF, BERT)**
 - **PyTorch**
 - **Transformers**
 - **Scikit-learn**
