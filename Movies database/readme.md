@@ -15,10 +15,10 @@
 
 ## Навыки и инструменты
 
-- **python**
-- **pandas**
-- **matplotlib**
-- **seaborn**
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
 
 ## Выводы
 
