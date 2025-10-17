@@ -25,7 +25,7 @@
 - **Python**
 - **Pandas**
 - **NLP (NTLK, BERT)***
-- **CV (TorchVision, CLIP)**
+- **CV (TorchVision, ResNet, CLIP)**
 - **PyTorch**
 - **Transformers**
 - **Scikit-learn**
